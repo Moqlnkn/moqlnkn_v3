@@ -2,8 +2,7 @@
 const CHANNEL_NAME = 'therepkats';
 const BOT_USERNAME = 'moqlnkn_v3';
 const BAD_WORDS = [
-    'nigg',
-    'fag',
+    'asdfasdfasdf',
 ];
 
 // ~~~~~~~~~~~~~~~~~~~~~~~~
